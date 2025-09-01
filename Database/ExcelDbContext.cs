@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace ExcelReader;
+namespace ExcelReader.Database;
 
 public class ExcelDbContext : DbContext
 {
